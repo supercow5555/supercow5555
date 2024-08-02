@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @supercow5555
 - 👀 I’m interested in data science and trying to break into fintech
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning Machine Learning Based Causal Inference
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me- kkaushal@connect.ust.hk
 
